@@ -30,7 +30,7 @@ function forceStuffs {
   curl -o plugins/linenodes.jar https://cdn.discordapp.com/attachments/1005162309079011379/1023595814225977375/linenodes.jar
 
   # Forcing MOTD.
-  echo "motd=This server is hosted on LineNodes.fun\u00A7r\n\u00A73U can change this MOTD in server.properties" >> server.properties
+  echo "motd=This server is hosted on \u00A76LineNodes.fun\u00A7r\n\u00A73You can change this MOTD in server.properties" >> server.properties
 }
 
 function launchJavaServer {
@@ -74,7 +74,7 @@ echo "
   4) Paper 1.17.0      9)  Discord NodeJS (SOON)
   5) Paper 1.18.0      10) Discord Python (SOON)
 
-                       recoded by \"nobody knows\"
+         Made by S.mode & FlowerinMine"
 
   "
 read -r n
