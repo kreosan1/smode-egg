@@ -201,30 +201,6 @@ case $n in
     java -Xms512M -Xmx512M -jar BungeeCord.jar
   ;;
 
-  7)
-    echo ""
-    echo "This platform is not available yet, please check back later. (COMING_SOON)"
-    exit
-  ;;
-
-  8)
-    echo ""
-    echo "This platform is not available yet, please check back later. (COMING_SOON)"
-    exit
-  ;;
-
-  9)
-    echo ""
-    echo "This platform is not available yet, please check back later. (COMING_SOON)"
-    exit
-  ;;
-
-  10)
-    echo ""
-    echo "This platform is not available yet, please check back later. (COMING_SOON)"
-    exit
-  ;;
-
   nobodyknows1337)
     echo ""
     echo "Эм... Вы попали в странное место... Кажется ещё ничего не готово."
