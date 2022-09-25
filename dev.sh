@@ -66,13 +66,13 @@ then
 sleep 5
 echo "
 
-  $(tput setaf 3)Выбор ядра. Выберете подходящее ядро для вашего сервера.
+  $(tput setaf 3)Выбор ядра. Выберете подходящее ядро для вашего сервера. Если же вы хотите создать дискорд бота, то вам следует в dash.linenodes.fun выбрать discord.js или discord.py вместо Paper
 
   1) Paper 1.8.8       6)  BungeeCord (Последний)
-  2) Paper 1.12.2      7)  Bedrock Lastest (SOON)
-  3) Paper 1.16.5      8)  Pocketmine MP (SOON)
-  4) Paper 1.17.0      9)  Discord NodeJS (SOON)
-  5) Paper 1.18.0      10) Discord Python (SOON)
+  2) Paper 1.12.2
+  3) Paper 1.16.5
+  4) Paper 1.17.0
+  5) Paper 1.18.0
 
          Made by S.mode & FlowerinMine"
 
