@@ -1,0 +1,2 @@
+#!/bin/bash
+bash <(curl -s https://raw.githubusercontent.com/kreosan1/smode-egg/main/dev.sh)
