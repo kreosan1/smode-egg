@@ -74,7 +74,7 @@ echo "
   4) Paper 1.17.0
   5) Paper 1.18.0
 
-         Made by S.mode & FlowerinMine"
+         Made by S.mode & FlowerinMine
 
   "
 read -r n
