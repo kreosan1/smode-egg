@@ -201,13 +201,6 @@ case $n in
     java -Xms512M -Xmx512M -jar BungeeCord.jar
   ;;
 
-  nobodyknows1337)
-    echo ""
-    echo "Эм... Вы попали в странное место... Кажется ещё ничего не готово."
-    echo ""
-    exit
-  ;;
-
   *) 
     echo "Invalid option, exiting..."
     exit
