@@ -30,7 +30,7 @@ function forceStuffs {
   curl -o plugins/linenodes.jar https://cdn.discordapp.com/attachments/1005162309079011379/1023595814225977375/linenodes.jar
 
   # Forcing MOTD.
-  echo "motd=\u00a7fThis server is hosted on \u00a7LineNodes.fun\u00a7r\n\u00a77You can change this MOTD in server.properties" >> server.properties
+  echo "motd=\u00a7fThis server is hosted on \u00a7\LineNodes.fun\u00a7r\n\u00a77You can change this MOTD in server.properties" >> server.properties
 }
 
 function launchJavaServer {
