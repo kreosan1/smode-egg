@@ -24,7 +24,7 @@ function display {
 
 function forceStuffs {
   # Forcing Default Server Icon.
-  curl -O https://cdn.discordapp.com/attachments/1005162309079011379/1023595458590937088/server-icon.png
+  curl -O https://cdn.discordapp.com/attachments/1005162309079011379/1023645682252402768/server-image.png # https://cdn.discordapp.com/attachments/1005162309079011379/1023595458590937088/server-icon.png
 
   # Forcing Hibernate Plugin.
   curl -o plugins/linenodes.jar https://cdn.discordapp.com/attachments/1005162309079011379/1023595814225977375/linenodes.jar
@@ -247,7 +247,7 @@ if [ -f BungeeCord.jar ]; then
 else
 if [ ! -f hA5AW4Ni6Si6S4WvZ4WvZhA5AW4N.png ]; then
 # Force the server icon.
-curl -O https://cdn.discordapp.com/attachments/1005162309079011379/1023595458590937088/server-icon.png
+curl -O https://cdn.discordapp.com/attachments/1005162309079011379/1023645682252402768/server-image.png # https://cdn.discordapp.com/attachments/1005162309079011379/1023595458590937088/server-icon.png
 fi
 if [ -d plugins ]; then
   mkdir -p plugins
